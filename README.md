@@ -16,5 +16,5 @@ B4: đi đến thư mục đã cài webharvy dán và thay thế application đ�
 
 Link video hướng dẫn cài: https://youtu.be/ggoDOyPU18c
  
- Mình xin chia sẻ thêm cho các bạn về danh sách video hướng dẫn sử dụng WebHarvy:https://bitly.com.vn/uqynfg
+ Mình xin chia sẻ thêm cho các bạn về danh sách video hướng dẫn sử dụng WebHarvy: https://bitly.com.vn/uqynfg
 
