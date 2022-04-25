@@ -11,7 +11,7 @@ B2: Vào thư mục crack đã giải nén chạy setup ( tiến hành cài như
 
 B3: Vào folder crack copy file trong folder 
 
-B4: đi đến thư mục đã cài webharvy dán đè vào 
+B4: đi đến thư mục đã cài webharvy dán và thay thế application đã có, hoàn thành crack
 
-Link video hướng dẫn cài:
+Link video hướng dẫn cài: https://youtu.be/ggoDOyPU18c
  
