@@ -16,7 +16,7 @@ B4: đi đến thư mục đã cài webharvy dán và thay thế application đ�
 
 Lưu ý: Trong bước 4 có thể nhiều bạn không thể tìm ra đường dẫn đã cài vì thư mục AppData có thể đã bị ẩn, các bạn có thể tìm kiếm trên google cách hiện thư mục đã bị ẩn trên hệ điều hành mình đang sử dụng
 
-Ví dụ cho win 11 và 10: https://support.microsoft.com/vi-vn/windows/xem-t%E1%BB%87p-v%C3%A0-th%C6%B0-m%E1%BB%A5c-%E1%BA%A9n-trong-windows-97fbc472-c603-9d90-91d0-1166d1d9f4b5#WindowsVersion=Windows_10
+Ví dụ hiện thư mục ẩn cho win 11 và 10: https://support.microsoft.com/vi-vn/windows/xem-t%E1%BB%87p-v%C3%A0-th%C6%B0-m%E1%BB%A5c-%E1%BA%A9n-trong-windows-97fbc472-c603-9d90-91d0-1166d1d9f4b5#WindowsVersion=Windows_10
 
 Link video hướng dẫn cài crack : https://youtu.be/ggoDOyPU18c
  
